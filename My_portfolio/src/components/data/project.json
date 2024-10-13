@@ -1,0 +1,50 @@
+[
+    {
+      "key": 1,
+      "title": "AI_Assistent",
+      "imageSrc":"https://imgcdn.stablediffusionweb.com/2024/5/2/7f99e3e0-c4c5-4f28-99ca-b7c433420caa.jpg",
+      "description": "This is a project made with complete JavaScript.",
+      "demo": "https://shawkishan.github.io/My_AI_Assistent.github.io/",
+      "source": "https://github.com/shawkishan/My_AI_Assistent.github.io"
+    },
+    {
+      "key": 2,
+      "title": "Tic-Tac-Toe Game",
+      "imageSrc": "https://dayswithgrey.com/wp-content/uploads/2020/11/Duplo-Tic-Tac-Toe-scaled.jpg",
+      "description": "This is a project made with complete HTML,CSS & JavaScript.",
+      "demo": "https://willowy-pixie-823b92.netlify.app/",
+      "source": "https://github.com/shawkishan/Tic-Tac-Toe-Game.github.io"
+    },
+    {
+      "key": 3,
+      "title": "QR Code Generator",
+      "imageSrc": "https://www.codewithrandom.com/wp-content/uploads/2022/09/Untitled-1200-%C3%97-720-px-1-1.png",
+      "description": "This is a project made with complete HTML,CSS & JavaScript.",
+      "demo": "https://whimsical-buttercream-3ef04b.netlify.app/",
+      "source": "https://github.com/shawkishan"
+    },
+    {
+      "key": 4,
+      "title": "My-Portfolio",
+      "imageSrc": "https://media.licdn.com/dms/image/D4D12AQFFWwkd6yzvHg/article-cover_image-shrink_600_2000/0/1701879757462?e=2147483647&v=beta&t=LFzEJ8NMqXGHrKKEs_xuXetmk3TU4KsG4de29udJV6s",
+      "description": "This is a project made with complete React-js & JavaScript.",
+      "demo": "https://shawkishan.github.io/Tic-Tac-Toe-Game.github.io/",
+      "source": "https://github.com/shawkishan"
+    },
+    {
+      "key": 5,
+      "title": "Bank Management System",
+      "imageSrc": "https://codewithcurious.com/wp-content/uploads/2023/01/Handwritten-Notes-7.png",
+      "description": "This is a project made with complete JAVA Language with JAVA AWT.",
+      "demo": "https://github.com/shawkishan",
+      "source": "https://github.com/shawkishan/Bankmanagementsystem.github.io"
+    },
+    {
+      "key": 6,
+      "title": "Mother-Day",
+      "imageSrc": "https://img.jagranjosh.com/images/2023/May/1252023/happy-mothers-day.webp",
+      "description": "This is a project made with complete HTML and CSS.",
+      "demo": "https://gentle-manatee-f8d466.netlify.app/",
+      "source": "https://github.com/shawkishan/Motherday.github.io"
+    }
+  ]

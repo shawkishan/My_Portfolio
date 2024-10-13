@@ -1,0 +1,41 @@
+[
+    {
+      "id": 1,
+      "role": "Web Development & Network Management(Netcamp Solutions Pvt Ltd)",
+      "organisation": "Netcamp",
+      "startDate": "Sept, 2023",
+      "endDate": "Oct, 2023",
+      "location": "UCER, Allahabad",
+      "experiences": [
+        "Worked on Web Development with Python",
+        "Worked on Network Management"
+      ],
+      "imageSrc": "company/netcamp1.jpg"
+    },
+    {
+      "id": 2,
+      "role": "Mern Stack Development(Avern Technologies) ",
+      "organisation": "Avern Technologies",
+      "startDate": "Jun, 2024",
+      "endDate": "Aug, 2024",
+      "location": "Virtual Internship, India",
+      "experiences": [
+        "Worked on more then four Project",
+        "I have worked in all these languages HTML,CSS,JavaScript,ReactJs,ExpressJs,NodeJs"
+      ],
+      "imageSrc": "company/averv.jpeg"
+    },
+    {
+      "id": 3,
+      "role": "Full Stack Web Development  - Intern",
+      "organisation": "techno",
+      "startDate": "May, 2024",
+      "endDate": "Jun, 2024",
+      "location": "Virtual Internship, India",
+      "experiences": [
+        "This is an exciting opprtunity for you to gain practical experience",
+        "Helped to create AI Chatbot Website "
+      ],
+      "imageSrc": "company/techno.jpeg"
+    }
+  ]
